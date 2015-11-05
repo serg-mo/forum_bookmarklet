@@ -1,5 +1,4 @@
-// javascript bookmarklet that downloads all pages of a forum thread and sorts the posts by number of likes
-// assumes the forum has already embedded prototype.js framework
+javascript:
 
 var pages = [];
 var stop  = false;
